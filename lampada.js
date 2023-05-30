@@ -28,7 +28,9 @@ function lampBroken () {
 turnOn.addEventListener ( 'click', lampOn );
 // botao para desligar a lampada
 turnOff.addEventListener ( 'click', lampOff );
-// 
+// quando passar o mouse fica ligada
 lamp.addEventListener ( 'mouseover', lampOn );
+// tirou o mouse desliga
 lamp.addEventListener ( 'mouseleave', lampOff );
+// duplo click quebra a lampada
 lamp.addEventListener ( 'dblclick', lampBroken );
