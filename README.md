@@ -1,21 +1,52 @@
-# lampada_js
-# aplicação de uma lampada ligada, desligada e quebrada.
+# Lampada JS
+Este é um projeto  em JavaScript que simula o funcionamento de uma lâmpada. <br>
+Neste projeto, aplicamos conceitos de eventos para controlar o estado da lâmpada, permitindo ligá-la, desligá-la e até quebrá-la.
 
-# Colocando em prática conhecimento de Javascript - Eventos.
+# Funcionalidades
 
-# Quando passamos o mouseover por cima, ela fica ligada.
-![image](https://github.com/MatheusTorquete/lampada_js/assets/94683422/06e3b79c-18eb-42d1-8307-37610e5a4075)
+Ao passar o mouse por cima da lâmpada, ela acende.
+<br>
+
+Ao tirar o mouse de cima da lâmpada, ela apaga.
+<br>
+
+Ao clicar no botão "Ligar", a lâmpada é ligada.
+<br>
+
+Ao clicar no botão "Desligar", a lâmpada é desligada.
+<br>
+
+Ao dar um duplo clique na lâmpada, ela quebra.
+
+# Arquivos do projeto
+index.html: Contém a estrutura HTML básica do projeto.
+<br>
+styles.css: Arquivo CSS com estilos para a página.
+<br>
+lampada.js: Arquivo JavaScript com o código responsável pelo funcionamento da lâmpada.
+
+# Como utilizar
+Abra o arquivo index.html em um navegador web.
+<br>
+Interaja com a lâmpada da seguinte forma:
+Passe o mouse por cima da lâmpada para acendê-la.
+<br>
+Tire o mouse de cima da lâmpada para apagá-la.
+<br>
+Clique no botão "Ligar" para ligar a lâmpada.
+<br>
+Clique no botão "Desligar" para desligar a lâmpada.
+<br>
+Dê um duplo clique na lâmpada para quebrá-la.
 
 
-# Quando tiramos o mouseleave ela fica desligada.
-![image](https://github.com/MatheusTorquete/lampada_js/assets/94683422/8f4ee195-d49d-4837-9ff3-852ea3772ba9)
 
 
-# Ao clicarmos no botão ligar.
-![image](https://github.com/MatheusTorquete/lampada_js/assets/94683422/e1f45c47-d47f-4294-96ec-5f0adcfb5894)
 
 
-# Ao clicarmos no botão delisgar.
-![image](https://github.com/MatheusTorquete/lampada_js/assets/94683422/306df82a-3c58-499f-a068-bd4fa8b80eca)
+
+
+
+
 
 
